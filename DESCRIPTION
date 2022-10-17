@@ -15,7 +15,7 @@ LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Imports: 
-	data.table (>= 1.9.4)
+	data.table (>= 1.9.4),
 	dplyr
 Depends: 
     R (>= 2.10)
